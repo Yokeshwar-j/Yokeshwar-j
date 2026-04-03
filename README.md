@@ -1,4 +1,4 @@
-## Hi 👋, I'm Yokeshwar 
+## Hi There 👋
 
 ## About Me
 I am a Computer Science student with a strong focus on problem solving and building real-world applications. 
