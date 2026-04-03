@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋, I'm Yokeshwar 
 
-<!--
-**Yokeshwar-j/Yokeshwar-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Computer Science student with a strong focus on problem solving and building real-world applications. 
+I am also interested in system-level concepts and continuously work on improving my knowledge in areas like Computer Networks and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Data Structures and Algorithms 
+- Computer Networks
+- Web Development
+- Machine Learning
+- Data Analysis
+
+---
+
+## Current Focus
+
+- Improving problem-solving skills  
+- Learning full-stack development using the MERN stack  
+- Exploring machine learning and data analysis  
+
+---
+
+## Connect with Me
+
+- GitHub: https://github.com/Yokeshwar-j
