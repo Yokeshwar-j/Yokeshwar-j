@@ -1,4 +1,4 @@
-Currently beefing with DSA 🥲
-Teaching myself ML 
+Currently beefing with DSA 🥲 <br>
+Teaching myself ML <br>
 
 #Still grinding tho 🚀
